@@ -3,6 +3,9 @@
 ## Objectives:
 We would like to study the how the target value changes before and after the treatment.
 
+## Remarks:
+The data contains two measures for each doctor before and after the change.
+
 ## Methods:
 1. I first extract data using SQL. Since the data we have is medical claims data, it has innate seasonality. Therefore, I removed it and named the cleaned up dataset as "R Input.xlsx"
 
