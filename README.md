@@ -1,4 +1,4 @@
-# Rank-sum-and-t-test-on-unpaired-data
+# Two Sample Rank Sum Test and t Test
 
 ## Objectives:
 We would like to study the how the target value changes before and after the treatment.
